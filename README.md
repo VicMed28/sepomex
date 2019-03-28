@@ -57,10 +57,10 @@ Or by hand
 
 We currently provide 4 kind of resources: 
 
-* **Zip Codes**: [http://sepomex.icalialabs.com/api/v1/zip_codes](https://sepomex.icalialabs.com/api/v1/zip_codes)
-* **States**: [http://sepomex.icalialabs.com/api/v1/states](https://sepomex.icalialabs.com/api/v1/states)
-* **Municipalities**: [http://sepomex.icalialabs.com/api/v1/municipalities](https://sepomex.icalialabs.com/api/v1/municipalities)
-* **Cities**: [http://sepomex.icalialabs.com/api/v1/cities](https://sepomex.icalialabs.com/api/v1/cities)
+* **Zip Codes**: [http://sepomex.icalialabs.com/api/v1/zip_codes](http://sepomex.icalialabs.com/api/v1/zip_codes)
+* **States**: [http://sepomex.icalialabs.com/api/v1/states](http://sepomex.icalialabs.com/api/v1/states)
+* **Municipalities**: [http://sepomex.icalialabs.com/api/v1/municipalities](http://sepomex.icalialabs.com/api/v1/municipalities)
+* **Cities**: [http://sepomex.icalialabs.com/api/v1/cities](http://sepomex.icalialabs.com/api/v1/cities)
 
 
 ### ZipCodes
